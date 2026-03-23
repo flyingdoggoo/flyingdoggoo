@@ -88,32 +88,3 @@
 ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=flyingdoggoo&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flyingdoggoo&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=flyingdoggoo&theme=tokyonight&hide_border=true"/>
-</p>
-
-
-## 🏆 Achievements
-
-| Year | Achievement |
-|------|------------|
-| 2026 | 🥇 First Prize – S-Group Algorithm Challenge 2026 |
-| 2025 | 🥈 Second Prize – Student Scientific Research Competition 2025 |
-| 2025 | 🥉 Bronze Medal – DUT Code League 2025 |
-| 2023 | 🏅 Third Prize – ICPC Vietnam Central Provincial Programming Contest |
-
----
-
-<p align="center">
-  <i>Open to internship opportunities in Backend / Fullstack development!</i><br/>
-  <a href="mailto:nguyenthanhhieu17022005@gmail.com">📬 nguyenthanhhieu17022005@gmail.com</a>
-</p>
