@@ -52,7 +52,9 @@
 
 ### 🗂️ [Trello Clone](https://github.com/flyingdoggoo/trello-clone)
 > Fullstack clone of the Trello task management tool
+
 **Project Link**: https://s-group-trello-pro.vercel.app/login
+
 **Test Account** Email: test@gmail.com, Password: test@gmail.com
 - 🔐 **RBAC** – Role-based access control at database design level
 - 🎨 **Frontend** – React, Tailwind CSS, shadcn/ui, Zustand state management
