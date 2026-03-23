@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Software Engineer · Fullstack Developer</b><br/>
-  📍 Da Nang, Vietnam &nbsp;·&nbsp; 🎓 HUST (DUT) – GPA 3.96/4.0 &nbsp;·&nbsp; 🏆 TOEIC 925
+  📍 Da Nang, Vietnam &nbsp;·&nbsp; 🎓 University of Science and Technology - The university of Da Nang – GPA 3.96/4.0 &nbsp;·&nbsp; 🏆 TOEIC 925
 </p>
 
 <p align="center">
