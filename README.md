@@ -1,20 +1,16 @@
-<h1 align="center">Hi there, I'm Nguyễn Thanh Hiếu 👋</h1>
-
+<!-- Banner SVG shimmer - file banner.svg để trong cùng repo -->
 <p align="center">
-  <b>Software Engineer · Fullstack Developer</b><br/>
-  📍 Da Nang, Vietnam &nbsp;·&nbsp; 🎓 University of Science and Technology - The university of Da Nang – GPA 3.96/4.0 &nbsp;·&nbsp; 🏆 TOEIC 925
+  <img src="./banner.svg" alt="Nguyen Thanh Hieu" width="860"/>
 </p>
 
+<!-- Typing: 2 dòng luân phiên -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/thanhhieu1702">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:nguyenthanhhieu17022005@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/flyingdoggoo">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=1800&pause=900&color=E040FB&center=true&vCenter=true&width=480&height=50&lines=Backend+Developer;Future+FullStack+Developer" alt="Typing SVG" />
+</p>
+
+<!-- Thông tin cố định -->
+<p align="center">
+  📍 Da Nang, Vietnam &nbsp;·&nbsp; 🎓 University of Science and Technology - The University of Da Nang – GPA 3.96/4.0 &nbsp;·&nbsp; 🏆 TOEIC 925
 </p>
 
 ---
@@ -53,9 +49,10 @@
 ### 🗂️ [Trello Clone](https://github.com/flyingdoggoo/trello-clone)
 > Fullstack clone of the Trello task management tool
 
-**Project Link**: https://s-group-trello-pro.vercel.app/login
+**🔗 Live Demo:** https://s-group-trello-pro.vercel.app/login
 
-**Test Account** Email: test@gmail.com, Password: test@gmail.com
+**🧪 Test Account:** Email: `test@gmail.com` · Password: `test@gmail.com`
+
 - 🔐 **RBAC** – Role-based access control at database design level
 - 🎨 **Frontend** – React, Tailwind CSS, shadcn/ui, Zustand state management
 - ⚙️ **Backend** – Node.js, Express.js, TypeScript, PostgreSQL + Prisma, REST API
@@ -88,3 +85,20 @@
 ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 
+---
+
+<p align="center">
+  <i>Open to internship opportunities in Backend / Fullstack development!</i>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/thanhhieu1702">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:nguyenthanhhieu17022005@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/flyingdoggoo">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
