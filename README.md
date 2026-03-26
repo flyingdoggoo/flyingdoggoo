@@ -73,7 +73,7 @@
 
 ---
 
-### 🎥 [DUT Meeting](https://github.com/flyingdoggoo/dut-meeting)
+### 🎥 [DUT Meeting](https://github.com/flyingdoggoo/dutmeet-react-webrtc)
 > Real-time online communication platform with AI-powered live subtitles
 
 - 💬 **Realtime** – Socket.IO + WebRTC for video/audio communication
