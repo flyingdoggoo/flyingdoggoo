@@ -45,7 +45,7 @@
 
 ## 🚀 Featured Projects
 
-### 🗂️ [Trello Clone](https://github.com/flyingdoggoo/trello-clone)
+### 🗂️ [Trello Clone](https://github.com/flyingdoggoo/S-Group-Trello)
 > Fullstack clone of the Trello task management tool
 
 🚧 Status: Completed
@@ -61,6 +61,8 @@
 ---
 
 ### 📓 DevLog
+
+### 🗂️ [Dev Log](https://github.com/flyingdoggoo/devlog)
 > Developer journaling platform to track learning progress and share with the community
 
 🚧 **Status:** In Progress
