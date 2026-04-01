@@ -1,14 +1,13 @@
-<!-- Banner SVG shimmer - file banner.svg để trong cùng repo -->
+<!-- Banner SVG shimmer -->
 <p align="center">
   <img src="./banner.svg" alt="Nguyen Thanh Hieu" width="860"/>
 </p>
 
-<!-- Typing: 2 dòng luân phiên -->
+<!-- Typing -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=1800&pause=900&color=E040FB&center=true&vCenter=true&width=480&height=50&lines=Backend+Developer;Future+FullStack+Developer" alt="Typing SVG" />
 </p>
 
-<!-- Thông tin cố định -->
 <p align="center">
   📍 Da Nang, Vietnam &nbsp;·&nbsp; 🎓 University of Science and Technology - The University of Da Nang – GPA 3.96/4.0 &nbsp;·&nbsp; 🏆 TOEIC 925
 </p>
@@ -49,41 +48,53 @@
 ### 🗂️ [Trello Clone](https://github.com/flyingdoggoo/trello-clone)
 > Fullstack clone of the Trello task management tool
 
-**🔗 Live Demo:** https://s-group-trello-pro.vercel.app/login
+🚧 Status: Completed
 
-**🧪 Test Account:** Email: `test@gmail.com` · Password: `test@gmail.com`
+**🔗 Live Demo:** https://s-group-trello-pro.vercel.app/login  
+**🧪 Test Account:** `test@gmail.com` / `test@gmail.com`
 
-- 🔐 **RBAC** – Role-based access control at database design level
-- 🎨 **Frontend** – React, Tailwind CSS, shadcn/ui, Zustand state management
-- ⚙️ **Backend** – Node.js, Express.js, TypeScript, PostgreSQL + Prisma, REST API
-- 🐳 **Deploy** – Docker, Vercel
+- 🔐 RBAC – Role-based access control (DB-level design)
+- 🎨 Frontend – React, Tailwind, shadcn/ui, Zustand
+- ⚙️ Backend – Node.js, Express, TypeScript, PostgreSQL + Prisma
+- 🐳 Deploy – Docker, Vercel
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+---
+
+### 📓 DevLog (WIP)
+> Developer journaling platform to track learning progress and share with the community
+
+🚧 **Status:** In Progress
+
+- 🎨 Frontend – React 18, Redux, React Router v6, Tailwind CSS, TipTap
+- ⚙️ Backend – NestJS, TypeORM, PostgreSQL, Passport.js (JWT, Google OAuth2)
+- ☁️ Services – Cloudinary, Nodemailer
+- 🐳 DevOps – Docker, GitHub Actions, Nginx, Railway / Render
 
 ---
 
 ### 🩺 [Fall Detection Smart Wearable Device](https://github.com/flyingdoggoo/Fall-Detection-Smart-Wearable-Device)
-> IoT wearable system that detects falls in real-time and sends emergency alerts
+> IoT wearable system that detects falls and sends alerts in real-time
 
-![IoT](https://img.shields.io/badge/IoT-FF6F00?style=flat-square&logo=arduino&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+🚧 Status: In progress
 
 ---
 
 ### 🎥 [DUT Meeting](https://github.com/flyingdoggoo/dutmeet-react-webrtc)
-> Real-time online communication platform with AI-powered live subtitles
+> Real-time communication platform with AI subtitles
 
-- 💬 **Realtime** – Socket.IO + WebRTC for video/audio communication
-- 🤖 **AI** – Whisper model + Workers for real-time subtitle generation
-- 🎨 **UI** – React, Bootstrap, shadcn/ui
-- ☁️ **Deploy** – AWS
+🚧 Status: Completed
 
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white)
-![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+- 💬 Realtime – WebRTC + Socket.IO
+- 🤖 AI – Whisper for live subtitles
+- ☁️ Deploy – AWS
+
+---
+
+**🛠️ Tech Stack**
+
+- Backend: NestJS, TypeORM, PostgreSQL, Passport.js  
+- Frontend: React 18, Redux, Tailwind, React Router  
+- DevOps: Docker, GitHub Actions, Nginx, Railway/Render  
 
 ---
 
