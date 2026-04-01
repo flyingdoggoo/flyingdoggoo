@@ -60,7 +60,7 @@
 
 ---
 
-### 📓 DevLog (WIP)
+### 📓 DevLog
 > Developer journaling platform to track learning progress and share with the community
 
 🚧 **Status:** In Progress
