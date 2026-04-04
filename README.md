@@ -67,6 +67,8 @@
 
 🚧 **Status:** In Progress
 
+**🔗 Live Demo:** https://devlog-web.onrender.com
+
 - 🎨 Frontend – React 18, Redux, React Router v6, Tailwind CSS, TipTap
 - ⚙️ Backend – NestJS, TypeORM, PostgreSQL, Passport.js (JWT, Google OAuth2)
 - ☁️ Services – Cloudinary, Nodemailer
