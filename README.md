@@ -1,15 +1,11 @@
 <!-- Banner SVG shimmer -->
 <p align="center">
-  <img src="./banner.svg" alt="Nguyen Thanh Hieu" width="860"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=33&duration=1800&pause=900&color=1C37E6&center=true&vCenter=true&width=480&height=50&lines=Hi+There;I'm+Hieu" alt="Typing SVG" />
 </p>
 
 <!-- Typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=1800&pause=900&color=E040FB&center=true&vCenter=true&width=480&height=50&lines=Backend+Developer;Future+FullStack+Developer" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  📍 Da Nang, Vietnam &nbsp;·&nbsp; 🎓 University of Science and Technology - The University of Da Nang – GPA 3.96/4.0 &nbsp;·&nbsp; 🏆 TOEIC 925
+  <strong>Backend Developer • Future FullStack Developer</strong>
 </p>
 
 ---
