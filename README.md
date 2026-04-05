@@ -5,7 +5,7 @@
 
 <!-- Typing -->
 <p align="center">
-  <strong>Backend Developer • Future FullStack Developer</strong>
+  <strong>Backend Developer</strong>
 </p>
 
 ---
