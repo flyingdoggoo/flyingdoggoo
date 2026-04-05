@@ -41,24 +41,9 @@
 
 ## 🚀 Featured Projects
 
-### 🗂️ [Trello Clone](https://github.com/flyingdoggoo/S-Group-Trello)
-> Fullstack clone of the Trello task management tool
-
-🚧 Status: Completed
-
-**🔗 Live Demo:** https://s-group-trello-pro.vercel.app/login  
-**🧪 Test Account:** `test@gmail.com` / `test@gmail.com`
-
-- 🔐 RBAC – Role-based access control (DB-level design)
-- 🎨 Frontend – React, Tailwind, shadcn/ui, Zustand
-- ⚙️ Backend – Node.js, Express, TypeScript, PostgreSQL + Prisma
-- 🐳 Deploy – Docker, Vercel
-
 ---
 
-### 📓 DevLog
-
-### 🗂️ [Dev Log](https://github.com/flyingdoggoo/devlog)
+### 📓 [DevLog](https://github.com/flyingdoggoo/devlog)
 > Developer journaling platform to track learning progress and share with the community
 
 🚧 **Status:** In Progress
@@ -72,21 +57,18 @@
 
 ---
 
-### 🩺 [Fall Detection Smart Wearable Device](https://github.com/flyingdoggoo/Fall-Detection-Smart-Wearable-Device)
-> IoT wearable system that detects falls and sends alerts in real-time
-
-🚧 Status: In progress
-
----
-
-### 🎥 [DUT Meeting](https://github.com/flyingdoggoo/dutmeet-react-webrtc)
-> Real-time communication platform with AI subtitles
+### 📚 [Trello Clone](https://github.com/flyingdoggoo/S-Group-Trello)
+> Fullstack clone of the Trello task management tool
 
 🚧 Status: Completed
 
-- 💬 Realtime – WebRTC + Socket.IO
-- 🤖 AI – Whisper for live subtitles
-- ☁️ Deploy – AWS
+**🔗 Live Demo:** https://s-group-trello-pro.vercel.app/login  
+**🧪 Test Account:** `test@gmail.com` / `test@gmail.com`
+
+- 🔐 RBAC – Role-based access control (DB-level design)
+- 🎨 Frontend – React, Tailwind, shadcn/ui, Zustand
+- ⚙️ Backend – Node.js, Express, TypeScript, PostgreSQL + Prisma
+- 🐳 Deploy – Docker, Vercel
 
 ---
 
