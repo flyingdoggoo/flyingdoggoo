@@ -46,7 +46,7 @@
 
 🚧 **Status:** In Progress
 
-**🔗 Live Demo:** https://devlog-web.onrender.com ( You might counter the loading skeleton for up to 50 seconds because i don't have Render Premium :( )
+**🔗 Live Demo:** https://devlog-web.onrender.com ( You might counter the loading skeleton for up to 50 seconds )
 
 - 🎨 Frontend – React 18, Redux, React Router v6, Tailwind CSS, TipTap
 - ⚙️ Backend – NestJS, TypeORM, PostgreSQL, Passport.js (JWT, Google OAuth2)
